@@ -1,1 +1,32 @@
+# _config.yml
+
+# Site settings
+title:Mukhammed Abu Suveilim
+description: Data Scientist 
+url: https://mukhammed-abu-suveilim.github.io # Update this with your GitHub Pages URL
+baseurl: "" # Leave this empty for GitHub Pages
+
+# Theme
 theme: jekyll-theme-minimal
+
+# Custom header links (optional)
+header-links:
+  Home: /
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude these files from the final build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - LICENSE
+  - README.md
+
+# Build settings
+markdown: kramdown
+permalink: pretty
