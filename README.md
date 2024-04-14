@@ -25,7 +25,17 @@
 
 **Сертификаты**
 - Google Data Analytics Courses (Foundations: Data, Data, Everywhere; Ask
-Questions to Make Data-Driven Decisions), TOELF IBT (C2) и другие экзамены по английскому
+Questions to Make Data-Driven Decisions),
+
+	- Первый сертификат: Foundations: Data, Data, Everywhere
+	
+	![Foundations: Data, Data, Everywhere](/assets/img/coursera_certificate_01.jpg)
+
+	- Второй сертификат: Ask Questions to Make Data-Driven Decisions
+	
+	![Ask Questions to Make Data-Driven Decisions](/assets/img/coursera_certificate_02.jpg)
+
+- TOELF IBT (C2) и другие экзамены по английскому
 языку (PAST, AST, SAT, …).
 
 **Софт скилс**
