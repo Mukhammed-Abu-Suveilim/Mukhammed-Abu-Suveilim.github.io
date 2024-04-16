@@ -61,3 +61,7 @@ Questions to Make Data-Driven Decisions),
 - Идея проекта заключается в определение пятерки/ 5-кортежа (sentiment-holder,
 sentiment-target, sentiment-target-aspect, sentiment, sentiment-time) в новостях на
 английском языке (в дальнейшем, и на русском языке).
+
+## Контакты
+- Телефон: +79004852795
+- Электронная почта: mukhammedabusuveilim@gmail.com  
