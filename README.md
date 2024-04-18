@@ -43,13 +43,16 @@ Questions to Make Data-Driven Decisions),
 свою идею.
 
 ## Проекты
+
 ### Виртуальный Пинг-Понг | Python, OpenCV, NumPy ноябрь 2023
 
 - Написал программу, которая использует жесты игрока как ракетки в теннисе.
 - С помощью OpenCV программа снимает видео из веб камеры и определяет правую и
 левую руки.
-- - ссылка на репо проект [Виртуальный Пинг-Понг](https://github.com/Mukhammed-Abu-Suveilim/ComputerVision/tree/main/PingPongGame)
+- ссылка на репо проект [Виртуальный Пинг-Понг](https://github.com/Mukhammed-Abu-Suveilim/ComputerVision/tree/main/PingPongGame)
+
 ### Колебания цепочек | Julia, Plots, DifferentialEquations, Git, Jupyter марта 2023
+
 - Построил модель гармонических колебаний цепочек на Julia по курсу
 математического моделирования.
 - Помимо этого проекта, я выполнил 7 лабораторных работ используя вышеуказанные
@@ -57,6 +60,7 @@ Questions to Make Data-Driven Decisions),
 - ссылка на репо проект [Колебания цепочек](https://github.com/Mukhammed-Abu-Suveilim/study_2023-2024_mathmod/tree/master/group-project)
 
 ### Анализ тональности новостей | Python, NumPy, Pandas, TensorFlow июнь 2024
+
 - Данный проект находится в стадии разработки и является моей курсовой работой
 третьего курса.
 - Идея проекта заключается в определение пятерки/ 5-кортежа (sentiment-holder,
