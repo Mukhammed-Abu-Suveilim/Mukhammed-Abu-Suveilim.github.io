@@ -29,11 +29,26 @@ Questions to Make Data-Driven Decisions),
 
 	- Первый сертификат: Foundations: Data, Data, Everywhere
 	
-	![Foundations: Data, Data, Everywhere](/assets/img/coursera_certificate_01.jpg)
+	![Foundations: Data, Data, Everywhere](./assets/img/coursera_certificate_01.jpg)
 
 	- Второй сертификат: Ask Questions to Make Data-Driven Decisions
 	
-	![Ask Questions to Make Data-Driven Decisions](/assets/img/coursera_certificate_02.jpg)
+	![Ask Questions to Make Data-Driven Decisions](./assets/img/coursera_certificate_02.jpg)
+
+	- Третий сертификат: Prepare Data for Exploration
+	
+	![Prepare Data for Exploration](./assets/img/coursera_certificate_03.jpg)
+
+	- Четвертый сертификат: Process Data from Dirty to Clean
+	
+	![Process Data from Dirty to Clean](./assets/img/coursera_certificate_04.jpg)
+
+	- Пятый сертификат: Analyze Data to Answer Questions
+
+	![Analyze Data to Answer Questions](./assets/img/coursera_certificate_05.jpg)
+
+
+
 
 - TOELF IBT (C2) и другие экзамены по английскому
 языку (PAST, AST, SAT, …).
