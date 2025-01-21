@@ -59,13 +59,6 @@ Questions to Make Data-Driven Decisions),
 
 ## Проекты
 
-### Виртуальный Пинг-Понг | Python, OpenCV, NumPy ноябрь 2023
-
-- Написал программу, которая использует жесты игрока как ракетки в теннисе.
-- С помощью OpenCV программа снимает видео из веб камеры и определяет правую и
-левую руки.
-- ссылка на репо проект [Виртуальный Пинг-Понг](https://github.com/Mukhammed-Abu-Suveilim/ComputerVision/tree/main/PingPongGame)
-
 ### Колебания цепочек | Julia, Plots, DifferentialEquations, Git, Jupyter марта 2023
 
 - Построил модель гармонических колебаний цепочек на Julia по курсу
@@ -82,6 +75,18 @@ Questions to Make Data-Driven Decisions),
 sentiment-target, sentiment-target-aspect, sentiment, sentiment-time) в новостях на
 английском языке (в дальнейшем, и на русском языке).
 - Модель на данный момент определяет объект сущности и тональность относительно к объекту (sentiment-target, sentiment).
+
+- ссылка на репо проект [Анализ тональности новостей](https://github.com/Mukhammed-Abu-Suveilim/course_thesis/blob/master/PDF_course_thesis/%D0%9E%D0%A2%D0%A7%D0%95%D0%A2%20o%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8.pdf)
+
+
+### Regression with an Insurance Dataset | lightGBM, Seaborn, matplotlib, Oputna декабрь 2024
+
+- Задача регрессии для прогнозирования страховой премии. Включает этапы
+подготовки данных, feature engineering (например, преобразование дат, создание
+новых признаков) и использование модели LightGBM. Особое внимание уделено
+обработке пропущенных значений, которые сохраняются из-за их корреляции с целевой переменной.
+
+- ссылка на репо проект [Regression with an Insurance Dataset](https://github.com/Mukhammed-Abu-Suveilim/kaggle/blob/main/Regression%20with%20an%20Insurance%20Dataset/LightGBM.ipynb)
 
 ## Контакты
 - Телефон: +79004852795
