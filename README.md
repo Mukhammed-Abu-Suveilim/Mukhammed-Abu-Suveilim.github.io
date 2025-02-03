@@ -15,7 +15,7 @@
 - Python, Julia, C++.
 
 **Технологии**
-- Pandas, NumPy, TensorFlow, OpenCV, Matplotlib, Markdown.
+- Pandas, NumPy, TensorFlow, PyTorch, Matplotlib, Seaborn, Markdown.
 
 **Инструменты**
 - Git, Jupyter, MS Studio.
