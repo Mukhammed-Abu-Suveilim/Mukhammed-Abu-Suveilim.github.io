@@ -56,6 +56,17 @@ Questions to Make Data-Driven Decisions),
 - опыт командной работы в проектах, подготовке презентаций, умение донести
 свою идею.
 
+
+## Публикации
+
+- **Abu Suveilim, M. M.** (2025, to be published in April). Multilingual Sentiment Analysis in Financial
+News. In the Proceedings of the **International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems (ITTMM) 2025**.
+
+- **Абу Сувейлим, М. М.** (2024). Феномен проникновения сетевого сленга в научную речь. В:
+**Информационно-коммуникативная культура специалиста в цифровую эпоху: материалы Международной студенческой проектной сессии**
+15–17 мая 2024 г., Москва, Институт русского языка, РУДН.
+Москва: РУДН, 2024. 271 с. : ил.
+(Научный руководитель: Кривченкова И. В.)
 ## Проекты
 
 
