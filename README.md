@@ -100,7 +100,7 @@ sentiment-target, sentiment-target-aspect, sentiment, sentiment-time) в нов�
 ### Кросс-лингвальный анализ тональности финансовых новостей | mBERT, Transformer, PyTorch    февраль 2025
 - Этот проект является моей дипломной работой. Требуется сделать сравнительный анализ множества кросс-лингвальных моделей. Далее выбрать трансформер-модель (distil multilingual BERT) дообучить (fine tune) её на masked language modelling (MLM), затем дообучить её на анализ тональности финансовых новостей. У базовой модели оценка perplexity 12.11, а у fine tuned модели 6.04 (50% улучшение). Также у fine tuned модели по всем метрикам (Accuracy, Precision, Recall и F1) улучшение на 4-6%.
 
-- ссылка на репо проект [Cross-lingual sentiment analysis](https://github.com/Mukhammed-Abu-Suveilim/diploma_thesis/tree/master/mdistilBERT/MLM)
+- ссылка на репо проект [Multilingual sentiment analysis](https://github.com/Mukhammed-Abu-Suveilim/diploma_thesis/tree/master/mdistilBERT/MLM)
 
 
 ## Контакты
