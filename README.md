@@ -67,6 +67,7 @@ News. In the Proceedings of the **International Conference on Information and Te
 15–17 мая 2024 г., Москва, Институт русского языка, РУДН.
 Москва: РУДН, 2024. 271 с. : ил.
 (Научный руководитель: Кривченкова И. В.)
+
 ## Проекты
 
 
