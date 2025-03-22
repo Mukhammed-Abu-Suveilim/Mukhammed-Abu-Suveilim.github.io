@@ -11,7 +11,7 @@
 
 ## Хард и софт скиллс
 **Языки программирования**
-- Python, Julia, C++.
+- Python, SQL, Julia, C++.
 
 **Технологии**
 - Pandas, NumPy, TensorFlow, PyTorch, Matplotlib, Seaborn, Markdown.
