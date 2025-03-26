@@ -80,7 +80,7 @@ sentiment-target, sentiment-target-aspect, sentiment, sentiment-time) в нов�
 английском языке (в дальнейшем, и на русском языке).
 - Модель на данный момент определяет объект сущности и тональность относительно к объекту (sentiment-target, sentiment).
 
-- ссылка на репо проект [Анализ тональности новостей](https://github.com/Mukhammed-Abu-Suveilim/course_thesis/blob/master/PDF_course_thesis/%D0%9E%D0%A2%D0%A7%D0%95%D0%A2%20o%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8.pdf)
+- ссылка на репо проект [Анализ тональности новостей](https://github.com/Mukhammed-Abu-Suveilim/course_thesis/blob/master/PDF_course_thesis)
 
 
 ### Regression with an Insurance Dataset | lightGBM, Seaborn, matplotlib, Oputna декабрь 2024
@@ -94,13 +94,13 @@ sentiment-target, sentiment-target-aspect, sentiment, sentiment-time) в нов�
 обработке пропущенных значений, которые сохраняются из-за их корреляции с
 целевой переменной.
 
-- ссылка на репо проект [Regression with an Insurance Dataset](https://github.com/Mukhammed-Abu-Suveilim/kaggle/blob/main/Regression%20with%20an%20Insurance%20Dataset/LightGBM.ipynb)
+- ссылка на репо проект [Regression with an Insurance Dataset](https://github.com/Mukhammed-Abu-Suveilim/kaggle/blob/main/Regression%20with%20an%20Insurance%20Dataset)
 
 
 ### Кросс-лингвальный анализ тональности финансовых новостей | mBERT, Transformer, PyTorch    февраль 2025
 - Этот проект является моей дипломной работой. Требуется сделать сравнительный анализ множества кросс-лингвальных моделей. Далее выбрать трансформер-модель (distil multilingual BERT) дообучить (fine tune) её на masked language modelling (MLM), затем дообучить её на анализ тональности финансовых новостей. У базовой модели оценка perplexity 12.11, а у fine tuned модели 6.04 (50% улучшение). Также у fine tuned модели по всем метрикам (Accuracy, Precision, Recall и F1) улучшение на 4-6%.
 
-- ссылка на репо проект [Multilingual sentiment analysis](https://github.com/Mukhammed-Abu-Suveilim/diploma_thesis/tree/master/mdistilBERT/MLM)
+- ссылка на репо проект [Multilingual sentiment analysis](https://github.com/Mukhammed-Abu-Suveilim/diploma_thesis)
 
 
 ## Контакты
